@@ -1,0 +1,38 @@
+Copy your printed results here.
+
+[ NO OUTLINKS ]
+(21,!?Revolution!?)
+(3726,...And_Oceans_vs._Bloodthorn_WAR_Vol._I)
+(4401,.458_Express)
+(6054,0.)
+(6072,0.7_FILMS)
+(6142,001)
+(6786,0_(disambiguation))
+(8949,100_Days_(1999_film))
+(9692,102.5_The_Bridge)
+(12672,110th_US_Congress)
+
+[ NO INLINKS ]
+(1,!)
+(4,!!!!)
+(6,!!!Hello_World!!!_A)
+(7,!!!Hello_World!!!_B)
+(10,!!!_(band))
+(12,!!Hello_world!!)
+(13,!!M)
+(14,!!Que_Corra_La_Voz!!)
+(15,!!_(chess))
+(16,!!m)
+
+
+[ PageRanks ]
+(5302153,United_States,0.22277061970381057)
+(84707,2007,0.14202370266172543)
+(88822,2008,0.137000432682147)
+(1921890,Geographic_coordinate_system,0.12626160448933446)
+(5300058,United_Kingdom,0.10173255342160892)
+(81615,2006,0.0873149393150238)
+(1804986,France,0.07365898925497852)
+(5535280,Wikimedia_Commons,0.07281784881842522)
+(5535664,Wiktionary,0.06573419724641207)
+(896161,Canada,0.06554201143241335)
